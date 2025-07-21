@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Dart File",
+      "type": "dart",
+      "request": "launch",
+      "program": "${workspaceFolder}/Math Ops and Data Types/Operators.Dart"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/noelbaca/Desktop/Dart Practice/ Math Ops and Data Types",
+      "program": "/Users/noelbaca/Desktop/Dart Practice/ Math Ops and Data Types/build/Debug/outDebug"
+    }
+  ]
+}

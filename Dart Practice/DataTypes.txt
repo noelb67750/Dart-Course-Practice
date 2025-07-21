@@ -1,0 +1,7 @@
+int	Represents an integer number	7
+2	double	Represents a decimal number	3.14
+3	bool	Can have two values: true or false	true
+4	String	Represents a sequence of characters	"Hello, Dart!"
+5	List	An ordered collection of values	[1, 2, 3, 4]
+6	Map	Stores values as key-value pairs	{"name": "Alice"}
+7	Set	A collection of unique values	{10, 20, 30}
